@@ -1,0 +1,399 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fefee3;
+    position: relative;
+}
+
+#node-1_7 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+#node-36_261 {
+    position: absolute;
+    background-color: #fefee3;
+    height: 565px;
+    left: 0;
+    top: 203px;
+    width: 1512px;
+}
+
+#node-35_214 {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('http://localhost:3845/assets/a3c9a0fabd04d3b73f7a447c5cd47c4abeea3a13.png');
+}
+
+#node-36_266, #node-36_268 {
+    position: absolute;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 99999px;
+    width: 60px;
+    height: 60px;
+    top: 476px;
+    overflow: clip;
+}
+
+#node-36_266 {
+    left: 34px;
+}
+
+#node-36_268 {
+    left: 1401px;
+}
+
+.arrow-container-left, .arrow-container-right {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 5px;
+    top: 5px;
+    width: 0px;
+    height: 0px;
+}
+
+.arrow-container-left > div {
+    transform: rotate(270deg) scaleY(-1);
+}
+
+.arrow-container-right > div {
+    transform: rotate(90deg) scaleY(-1);
+}
+
+#node-36_267, #node-36_269 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    width: 50px;
+    height: 50px;
+    background-image: url('http://localhost:3845/assets/dcd47a1e45cd3e3612583282f530716265645b7e.png');
+}
+
+#node-21_139 {
+    position: absolute;
+    background-color: #fde4b3;
+    height: 203px;
+    left: 0;
+    top: 0;
+    width: 1512px;
+    overflow: clip;
+}
+
+#node-36_314 {
+    position: absolute;
+    bottom: -10.345%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    left: 34.325%;
+    overflow: clip;
+    padding: 0 9px;
+    right: 34.325%;
+    top: 66.01%;
+}
+
+#node-36_320 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    position: relative;
+    flex-shrink: 0;
+    width: 129px;
+}
+
+#node-21_169, #node-21_171, #node-21_173, #node-21_175 {
+    background-color: #fde4b3;
+    display: block;
+    cursor: pointer;
+    height: 70px;
+    overflow: clip;
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+    border: none;
+}
+
+#node-I21_169-21_163, #node-I21_171-21_163, #node-I21_173-21_163, #node-I21_175-21_163 {
+    position: absolute;
+    font-family: 'Ownglyph_PDH:Regular', sans-serif;
+    height: 62px;
+    line-height: normal;
+    left: 0;
+    font-style: normal;
+    color: #000000;
+    font-size: 30px;
+    text-align: left;
+    top: 1.5px;
+    width: 154px;
+}
+
+#node-10_63 {
+    position: absolute;
+    background-color: #fffad6;
+    bottom: 55.665%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 17px;
+    align-items: center;
+    justify-content: center;
+    left: 11.442%;
+    overflow: clip;
+    padding: 5px 20px;
+    right: 9.193%;
+    border-radius: 999px;
+    top: 22.66%;
+}
+
+#node-4_25 {
+    position: relative;
+    flex-shrink: 0;
+    width: 24.948px;
+    height: 24.948px;
+}
+
+#imgSearch {
+    display: block;
+    max-width: none;
+    width: 100%;
+    height: 100%;
+}
+
+#node-21_202 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    overflow: clip;
+    padding: 7px 0;
+    position: relative;
+    flex-shrink: 0;
+    width: 1085px;
+}
+
+#node-10_64 {
+    flex-basis: 0;
+    font-family: 'Ownglyph_PDH:Regular', sans-serif;
+    flex-grow: 1;
+    height: 100%;
+    line-height: 0;
+    min-height: 1px;
+    min-width: 1px;
+    font-style: normal;
+    position: relative;
+    flex-shrink: 0;
+    font-size: 20px;
+    color: rgba(0,0,0,0.5);
+    text-align: left;
+}
+
+#node-10_65 {
+    position: absolute;
+    bottom: 53.695%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    left: 2.976%;
+    overflow: clip;
+    padding: 15px 6px;
+    right: 93.75%;
+    top: 21.675%;
+}
+
+.vector-img, .vector-img1 {
+    display: block;
+    max-width: none;
+    width: 100%;
+    height: auto;
+}
+
+#node-36_278 {
+    position: absolute;
+    bottom: 53.695%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    left: 93.585%;
+    padding: 10px;
+    right: 2.712%;
+    top: 18.719%;
+}
+
+#node-12_72 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    background-image: url('http://localhost:3845/assets/a8af3f6371a0cfc3bb25778d89b7fb44baa2c551.png');
+}
+
+#node-36_307 {
+    position: absolute;
+    bottom: 75.862%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+    align-items: center;
+    justify-content: flex-start;
+    left: 74.471%;
+    overflow: clip;
+    padding: 12px 0;
+    right: 0;
+    top: 0;
+}
+
+#node-36_310, #node-36_311, #node-36_312, #node-36_313 {
+    flex-basis: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-grow: 1;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-height: 1px;
+    min-width: 1px;
+    padding: 0;
+    position: relative;
+    flex-shrink: 0;
+}
+
+#node-21_155, #node-21_153, #node-21_151, #node-21_149 {
+    background-color: #fde4b3;
+    display: block;
+    cursor: pointer;
+    height: 22px;
+    overflow: clip;
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+    border: none;
+}
+
+#node-I21_155-21_143, #node-I21_153-21_143, #node-I21_151-21_143, #node-I21_149-21_143 {
+    position: absolute;
+    font-family: 'Kyobo_Handwriting_2024:psw', sans-serif;
+    height: 13px;
+    line-height: 0;
+    left: 4px;
+    font-style: normal;
+    color: #000000;
+    font-size: 20px;
+    text-align: left;
+    top: -2px;
+    width: 89px;
+}
+
+#node-36_324 {
+    position: absolute;
+    background-color: #fefee3;
+    height: 1505px;
+    overflow: clip;
+    transform: translate(-50%, -50%);
+    width: 1251px;
+    top: calc(50% + 408px);
+    left: calc(50% + 19.5px);
+}
+
+.product-item {
+    position: absolute;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#node-21_182 {
+    bottom: 1044px;
+    gap: 16px;
+    height: 445px;
+    padding: 36px 37px;
+    transform: translateX(-50%);
+    width: 345px;
+    left: calc(50% - 436px);
+}
+
+.bg-card {
+    position: absolute;
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.product-img {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-shrink: 0;
+}
+
+#node-12_74 {
+    height: 253px;
+    width: 271.321px;
+    background-image: url('http://localhost:3845/assets/f36ab4bdbafb12e639710b19bc167bc2d334d319.png');
+}
+
+.product-name {
+    font-family: 'Paperlogy:4_Regular', sans-serif;
+    font-style: normal;
+    color: #000000;
+    font-size: 16px;
+    text-align: left;
+    position: relative;
+    flex-shrink: 0;
+}
+
+#node-12_76 {
+    height: 29px;
+    line-height: 0;
+    width: 184px;
+}
+
+.product-price {
+    font-family: 'Ownglyph_PDH:Regular', sans-serif;
+    font-style: normal;
+    color: #000000;
+    font-size: 24px;
+    text-align: left;
+    position: relative;
+    flex-shrink: 0;
+}
+
+#node-12_77 {
+    height: 29px;
+    line-height: 0;
+    width: 89px;
+}
+
+/* Add styles for other product items similarly */
